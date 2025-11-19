@@ -1,0 +1,17 @@
+{
+    "name": "Счётчик отжиманий",
+    "short_name": "Отжимания",
+    "description": "Ежедневный счётчик отжиманий +1 каждый день",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#667eea",
+    "theme_color": "#764ba2",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💪</text></svg>",
+            "sizes": "192x192",
+            "type": "image/svg+xml"
+        }
+    ]
+}
